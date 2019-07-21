@@ -11,6 +11,11 @@ for (let x = 0; x < b.length; x++) {
     console.log(b[x]);
 }
 
+b.forEach(function(letters) {
+console.log(letters)
+});
+
+
 console.log(!!b[13]);
 
 for (let i = 0; i <= 10; i++) {             // in class i wrote on the board <== ???
