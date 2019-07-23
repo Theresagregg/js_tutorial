@@ -15,3 +15,4 @@ return answer === 0
 };
 let b = isEven(26)
 console.log(b)
+
